@@ -13,3 +13,4 @@ Text files are easy to manipulate, search, store, human and machine read. It's j
 The information also needs to include things like drive name, physical location, interfaces, is there a backup? Are these original RAW files or JPEG exports? dates.
 
 Doesn't really need to include the individual file names as these don't really mean much and rotate every 10,000 frames.
+I need to automate the process and include workflow tools to ensure a regular progression of the process.
